@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "knowledge-base": {
+      "command": "python",
+      "args": ["/path/to/knowledge_base_server.py"],
+      "env": {
+        "PYTHONUNBUFFERED": "1"
+      }
+    }
+  }
+}
